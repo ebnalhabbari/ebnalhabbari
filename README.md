@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Anas Ahmad
+# 👋 Hello, I'm Abdulrahman Alhabbari
 
 ## 👨‍🎓 About Me
 I'm a *Computer Engineering student* with strong interest in *cyber security, **software development, and **databases*.  
